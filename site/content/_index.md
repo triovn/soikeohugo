@@ -1,20 +1,24 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: SOI KÈO WEBSITE HÀNG ĐẦU VỀ TIP BÓNG ĐÁ
+subtitle: NHẬN ĐỊNH BÓNG ĐÁ UY TÍN CHẤT LƯỢNG
+image: img/1200600.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Soi Kèo
+  text: Soi Kèo Là một trong những website tổng hợp thông tin nhận định bóng đá
+    cũng như trang tip bóng đá lớn nhất hàng đầu hơn thập kỷ qua từ năm 2007.
+    Soi Kèo thu hút bình quân hơn 500 nghìn lượt truy cập mỗi ngày cũng như duy
+    trì được lượng khách trung thành đối với website(nguồn phân tích thứ hạng).
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Dịch Vụ Tip Chất Lượng
+  text: Soi Kèo cung cấp tới người xem những tin tức bóng đá mới nhất, những tin
+    thể thao cập nhật tổng hợp nhanh và tin ảnh bên lề cầu thủ, cuộc sống xuyên
+    suốt cùng với hình ảnh, video clips cập nhật liên tục.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/2024_9_20_tip-premium.jpg
+    text: Gói tip và nhận định hàng ngày với giá thành thấp 100.000đ cho 1 ngày.
+      Nhằm đem đến bạn gói tip Premium giá rẻ phân tích nhận định toàn diện
+      nhưng vẫn đảm bảo độ ổn định và tốt nhất.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Website
+  text: https://soikeo.sk - https://soikeo.tips
 ---
-
